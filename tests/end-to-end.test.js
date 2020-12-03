@@ -28,8 +28,8 @@ describe('End-to-end Test', () => {
 		await feedbackPage.visit()
 		await feedbackPage.isFeedbackFormDisplayed()
 		await feedbackPage.submitFeedback(
-			'Johny',
-			'johnyTheSales@email.com',
+			'Dmitry',
+			'dvpotekhin@email.com',
 			'subject',
 			'here comes your super long comment message'
 		)
