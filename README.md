@@ -1,12 +1,12 @@
 # Jest-Puppeteer
-Clone this repository
+# Clone this repository
 $ git clone https://github.com/Dvpotekhin/Jest-Puppeteer
 
-Go into the repository
+# Go into the repository
 $ cd Puppeteer-Faker
 
-Install dependencies
-$ npm run install
+# Install dependencies
 
-Run the project
-$ npm run test
+$ npm run install 
+
+# Run the project
